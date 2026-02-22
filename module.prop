@@ -1,0 +1,6 @@
+id=superrom_vram_quantum
+name=01 - Quantum 16GB VRAM Expander
+version=v2.0-Absolute
+versionCode=2
+author=SuperROM_Architect
+description=Forces 16GB zRAM with ZSTD compression. Edits kernel VM swappiness, watermarks, and LRU cache for zero background app killing.
